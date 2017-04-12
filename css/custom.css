@@ -1,0 +1,7 @@
+.form-group.required label:after { 
+    color: #d00;
+    content: "*";
+    position: relative;
+    margin-left: 0;
+    top:0;
+}
